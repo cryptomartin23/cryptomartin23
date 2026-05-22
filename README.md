@@ -4,10 +4,10 @@
 
 <br/>
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOURUSERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Berg-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOURUSERNAME)
-[![Portfolio](https://img.shields.io/badge/bergsecurity.net-live-00FF41?style=flat-square&logo=vercel&logoColor=black)](https://bergsecurity.net)
-[![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/cryptomartin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Berg-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/martin-berg-337a1586)
+[![Portfolio](https://img.shields.io/badge/martinberg.work-live-00FF41?style=flat-square&logo=vercel&logoColor=black)](https://martinberg.work)
+[![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mail.martinberg.work)
 
 </div>
 
@@ -49,7 +49,7 @@
 - 📋 NIST CSF 2.0 control mapping · NICE Framework role **IO-WRL-004**
 
 🌐 **Live at:** [goktek.bergsecurity.net](https://goktek.bergsecurity.net)
-📁 **Repo:** [github.com/YOURUSERNAME/goktek-mvp](https://github.com/YOURUSERNAME/goktek-mvp)
+📁 **Repo:** [github.com/cryptomartin23/goktek-mvp](https://github.com/YOURUSERNAME/goktek-mvp)
 
 -----
 
@@ -69,7 +69,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
-![Nuclei](https://img.shields.io/badge/Nuclei_v3.7.1-00C7B7?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 
 **Platforms & OS**
@@ -104,8 +103,7 @@
 |----------|-----------------------------------------------|-----------------------|
 |✅ Complete|Cybersecurity Graduate                         |Gokstad Akademiet, 2026|
 |🔨 Active  |TryHackMe — Security paths                     |TryHackMe              |
-|📌 Next    |eJPT — eLearnSecurity Junior Penetration Tester|INE                    |
-
+|📌 
 <div align="center">
   <img src="https://tryhackme-badge.ra0.io/YOURUSERNAME" alt="TryHackMe Badge" />
 </div>
@@ -114,25 +112,6 @@
 
 ## 📡 Currently
 
-```bash
-$ cat /etc/current_focus.conf
-
-[learning]
-  platform   = TryHackMe
-  next_cert  = eJPT
-
-[building]
-  project    = home-lab SIEM pipeline
-  stack      = Elastic Stack + custom log ingestion
-
-[reading]
-  topic      = Zero Trust Architecture (NIST SP 800-207)
-  framework  = NSM Grunnprinsipper for IKT-sikkerhet
-
-[ctf]
-  active     = HackTheBox
-  os         = Kali Linux / Fedora + Starship prompt
-```
 
 -----
 
@@ -142,9 +121,9 @@ I’m actively looking for **security analyst**, **cloud security**, or **junior
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOURUSERNAME)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.com)
-[![Portfolio](https://img.shields.io/badge/bergsecurity.net-Visit-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://bergsecurity.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/martin-berg-337a1586)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@martinberg.work)
+[![Portfolio](https://img.shields.io/badge/martinberg.work-Visit-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://martinberg.work)
 
 </div>
 
