@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Martin+Berg+%7C+Cybersecurity+Graduate+%F0%9F%94%90;Cloud+Hardening+%7C+Network+Security+%7C+Threat+Modeling;Breaking+things+responsibly+since+2024+%F0%9F%A7%A0;goktek.bergsecurity.net+%E2%86%92+Live+in+Production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Martin+Berg+%7C+Cybersecurity+Graduate+%F0%9F%94%90;Cloud+Hardening+%7C+Network+Security+%7C+Threat+Modeling;Breaking+things+responsibly+since+2024+%F0%9F%A7%A0; />
 
 <br/>
 
