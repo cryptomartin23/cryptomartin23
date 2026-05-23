@@ -48,8 +48,6 @@
 - 🔎 Nuclei v3.7.1 vulnerability scan — **8 findings (F-1–F-8)** identified & remediated
 - 📋 NIST CSF 2.0 control mapping · NICE Framework role **IO-WRL-004**
 
-🌐 **Live at:** [goktek.bergsecurity.net](https://goktek.bergsecurity.net)
-📁 **Repo:** [github.com/cryptomartin23/goktek-mvp](https://github.com/YOURUSERNAME/goktek-mvp)
 
 -----
 
