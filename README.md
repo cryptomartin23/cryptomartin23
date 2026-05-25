@@ -17,7 +17,7 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║  $ whoami                                                    ║
 ║                                                              ║
-║  > Cybersecurity graduate · Gokstad Akademiet, 2026          ║
+║  > Cybersecurity graduate · Gokstad Acadamy, 2026          ║
 ║  > Specialty: cloud hardening, network security, red/blue    ║
 ║  > Capstone: 3-tier Azure MVP · NIST CSF 2.0 assessed        ║
 ║  > Based in Norway · Available for security roles            ║
