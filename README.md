@@ -85,12 +85,6 @@
 -----
 
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
-
-</div>
 
 -----
 
@@ -126,7 +120,5 @@ I’m actively looking for **security analyst**, **cloud security**, or **junior
 -----
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&color=00FF41&label=profile+views" />
-  <br/><br/>
   <sub>⚡ <i>"The quieter you become, the more you are able to hear."</i> — Kali Linux</sub>
 </div>
