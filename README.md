@@ -103,7 +103,7 @@
 |🔨 Active  |TryHackMe — Security paths                     |TryHackMe              |
 |📌 
 <div align="center">
-  <img src="https://tryhackme-badge.ra0.io/YOURUSERNAME" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badge.ra0.io/cryptomartin" alt="TryHackMe Badge" />
 </div>
 
 -----
