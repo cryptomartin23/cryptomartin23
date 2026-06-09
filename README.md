@@ -100,6 +100,7 @@
 |Status    |Credential                                     |Platform               |
 |----------|-----------------------------------------------|-----------------------|
 |✅ Complete|Cybersecurity Graduate                         |Gokstad Akademiet, 2026|
+|✅ Complete|ISC2 Certified in Cybersecurity                |ISC2             , 2026|
 |🔨 Active  |TryHackMe — Security paths                     |TryHackMe              |
 |📌 
 <div align="center">
