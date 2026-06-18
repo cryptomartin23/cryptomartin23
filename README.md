@@ -22,7 +22,7 @@
 ║  > Capstone: 3-tier Azure MVP · NIST CSF 2.0 assessed        ║
 ║  > Based in Norway · Available for security roles            ║
 ║                                                              ║
-║  "Build it. Break it. Document it. Harden it."              ║
+║  "Build it. Break it. Harden it. Document it."              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -99,7 +99,60 @@
 
 
 -----
+## 🎓 Education
 
+<div align="center">
+
+![Degree](https://img.shields.io/badge/Degree-Higher%20Vocational%20Education-0d1117?style=for-the-badge&logo=academia&logoColor=cyan&labelColor=0d1117&color=00bcd4)
+![Institution](https://img.shields.io/badge/Gokstad%20Akademiet-Sandefjord%2C%20Norway-0d1117?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=161b22&color=6e40c9)
+![Credits](https://img.shields.io/badge/Credits-120%20ECTS-0d1117?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=161b22&color=00bcd4)
+![NQF Level](https://img.shields.io/badge/NQF-Level%205.2-0d1117?style=for-the-badge&logo=buffer&logoColor=white&labelColor=161b22&color=6e40c9)
+![NOKUT](https://img.shields.io/badge/NOKUT-Accredited-0d1117?style=for-the-badge&logo=verified&logoColor=white&labelColor=161b22&color=2ea043)
+
+</div>
+
+### Fagskole — Cybersikkerhet · Gokstad Akademiet `2024–2026`
+
+**Higher Vocational Degree in Cyber Security** — 120 credits, NQF Level 5.2  
+Accredited by NOKUT · Issued 19 June 2026
+
+---
+
+#### 📋 Academic Results
+
+| Code | Subject | Credits |
+|------|---------|:-------:|
+| CYB1001 | Introduction to Programming | 15.0 |
+| DBS1001 | Database Systems | 7.5 |
+| DTEK1001 | Digital Technology | 7.5 |
+| INF103 | Information Security | 22.5 |
+| RVI202 | Frameworks & ISMS | 7.5 |
+| CFS202 | Cyber Defence & Security | 15.0 |
+| SEH202 | Software Security & Ethical Hacking | 15.0 |
+| ESS203 | Enterprise Systems & Security Architecture | 10.0 |
+| MTC203 | Security in IoT & Machine Type Communication | 10.0 |
+| PRO203 | Capstone Project | 10.0 |
+
+---
+
+#### 🧠 Knowledge & Competencies
+
+- **Security Architecture** — Enterprise systems, ISMS frameworks, security design patterns
+- **Ethical Hacking & Penetration Testing** — Planning and executing tests individually and in teams, in accordance with legal and ethical guidelines
+- **Cyber Defence** — Threat intelligence, national/local threat landscape assessment, defensive security operations
+- **Software Security** — Vulnerability analysis, secure code review, ethical hacking methodology
+- **Information Security** — Confidentiality, integrity, availability; GDPR and Norwegian privacy law compliance
+- **Database & Digital Systems** — Applied database architecture in cybersecurity contexts
+- **IoT & Machine Type Communication** — Security considerations for connected devices and MTC environments
+- **Web Technologies** — HTML/CSS applied in security tooling and web projects
+
+#### ⚡ General Competencies
+
+- Plans and executes **ethical hacking and penetration testing** projects independently and in teams
+- Applies **industry frameworks** (NIST, ISO 27001 / ISMS) to real-world security work
+- Capable of **organisational security development** — translating knowledge into actionable security improvements
+- Engages with professional networks across IT disciplines and communicates with system administrators and stakeholders
+- Continuously updates vocational knowledge through professional information gathering and industry contact
 
 -----
 
